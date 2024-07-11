@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#result-container {
+    background-color: #fff;
+    border: 2px solid #3498db;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    text-align: center;
+    width: 400px;
+}
+
+h1 {
+    color: #3498db;
+    font-size: 24px;
+}
+
+p {
+    font-size: 18px;
+    margin: 10px 0;
+}

@@ -1,0 +1,61 @@
+{% extends "layout/base.html" %}
+
+{% block contents %}
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Klasifikasi Status Gizi</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+
+
+<body>
+    <div class="container mt-5">
+        <h4 class="display-4">Proses Klasifikasi</h4>
+        <small>Silahkan input data pengujian</small>
+        <hr/>
+
+        <form method="post" action="/klasifikasi" class="mt-4" >
+            <div class="row">
+                <div class="col-6">
+                    <!-- Input Nama Bayi -->
+                    <label for="nama_bayi">Nama Bayi:</label>
+                    <input type="text" id="nama_bayi" name="nama_bayi" required><br>
+
+                     <!-- Input Usia -->
+                    <label for="usia">Usia (bulan):</label>
+                    <input type="number" id="usia" name="usia" min="1" max="60" required><br>
+    
+                    <!-- Input Berat Badan -->
+                    <label for="berat_badan">Berat Badan (kg):</label>
+                    <input type="number" id="berat_badan" name="berat_badan" min="1" max="30" required><br> 
+                    </div>
+
+            <div class="col-6">
+                    <!-- Input Tinggi Badan -->
+                    <label for="tinggi_badan">Tinggi Badan (cm):</label>
+                    <input type="number" id="tinggi_badan" name="tinggi_badan" min="20" max="100" required><br>
+    
+                    <!-- Input Lingkar Lengan -->
+                    <label for="lingkar_lengan">Lingkar Lengan (cm):</label>
+                    <input type="number" id="lingkar_lengan" name="lingkar_lengan" min="1" max="25" required><br>
+    
+                    <!-- Input Jenis Kelamin -->
+                    <label for="jenis_kelamin">Jenis Kelamin:</label>
+                    <input type="radio" id="laki_laki" name="jenis_kelamin" value="0" required>
+                    <label for="laki_laki">Laki-laki</label>
+                    <input type="radio" id="perempuan" name="jenis_kelamin" value="1" required>
+                    <label for="perempuan">Perempuan</label><br>
+    
+                </div>
+            </div>
+            <div class="d-flex justify-content-center mt-100">
+            <button type="submit" class="btn btn-primary btn-lg btn-block">Klasifikasi</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
+
+{% endblock contents %}

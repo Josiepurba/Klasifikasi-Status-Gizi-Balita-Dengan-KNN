@@ -1,0 +1,45 @@
+{% extends "layout/base.html" %}
+
+{% block contents %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hasil Klasifikasi Status Gizi</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+        }
+
+        .result-container {
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 20px;
+            max-width: 400px;
+            margin: 0 auto;
+            margin-top: 50px;
+        }
+
+        h1 {
+            color: #333;
+            font-size: 24px;
+        }
+
+        p {
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="result-container">
+            <h1 class="display-7">Hasil Klasifikasi Status Gizi:</h1>
+            <p>Nama Balita: {{ nama_bayi }}</p>
+            <p>Status Gizi Klasifikasi: {{ predicted_gizi }}</p>
+        </div>
+    </div>
+</body>
+</html>
+{% endblock contents %}

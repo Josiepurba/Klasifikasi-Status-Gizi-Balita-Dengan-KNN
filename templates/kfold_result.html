@@ -1,0 +1,108 @@
+{% extends "layout/base.html" %}
+
+{% block contents %}
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        /* Custom CSS styling */
+        body {
+            background-color: #f4f4f4;
+            font-family: Arial, sans-serif;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        table, th, td {
+            border: 1px solid #333;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #333;
+            color: #fff;
+        }
+
+        /* Add more custom styling as needed */
+    </style>
+</head>
+
+<body>
+    <div class="container mt-4">
+        <h2>Individual Fold Accuracies:</h2>
+        <ul>
+            {% for accuracy in accuracies %}
+                <li>{{ accuracy }}</li>
+            {% endfor %}
+        </ul>
+
+        <h2>Average Accuracy:</h2>
+        <p>{{ average_accuracy }}</p>
+
+        <h2>Recall:</h2>
+        <p>{{ recall }}</p>
+
+        <h2>F1 Score:</h2>
+        <p>{{ f1_score }}</p>
+
+        
+        <h2>Precision:</h2>
+        <p>{{ average_precision }}</p>
+
+        <h2>Total Confusion Matrix</h2>
+        <table border="1">
+          <tr>
+            <th></th>
+            <th>Predicted Class 1</th>
+            <th>Predicted Class 2</th>
+            <th>Predicted Class 3</th>
+          </tr>
+          {% for i in range(total_confusion_matrix_all_folds.data|length) %}
+            <tr>
+              <th>Actual Class</th>
+              {% for value in total_confusion_matrix_all_folds.data[i][:3] %}
+                <td>{{ value }}</td>
+              {% endfor %}
+            </tr>
+            {% endfor %}
+        </table>
+
+
+
+        <div>
+            <img src="{{ url_for('static', filename=image_filename) }}" alt="kfold_result.png">
+        </div>
+        
+    </div>
+
+    <!-- Additional content or formatting as needed -->
+</body>
+
+</html>
+
+{% endblock contents %}

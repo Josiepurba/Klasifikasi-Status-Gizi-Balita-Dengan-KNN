@@ -1,0 +1,1001 @@
+Usia (bulan),Berat Badan (kg),Tinggi Badan (cm),Jenis Kelamin,Lingkar Lengan,Nama Bayi,Status Gizi
+1,2,34,laki-laki,10,LIAN ,Gizi Kurang
+37,4,31,perempuan,8,MUTIARA ,Gizi Kurang
+28,4,39,perempuan,10,ZEFABIA GULO ,Gizi Kurang
+23,3,24,laki-laki,11,USWA HASIBUAN ,Gizi Kurang
+13,5,54,perempuan,11,NUR AJIMA ,Gizi Baik
+31,2,31,laki-laki,11,ROISUL ,Gizi Kurang
+13,14,63,laki-laki,11,SHOFIANA RAMADAN ,Gizi Lebih
+35,6,50,perempuan,8,NAIRA IMELDA ,Gizi Baik
+25,11,99,perempuan,8,M.HANIF ,Gizi Lebih
+6,5,49,perempuan,11,KAYSA AZKIA ,Gizi Baik
+45,5,57,laki-laki,9,ARDI ,Gizi Baik
+54,2,33,laki-laki,11,ROSLINA ,Gizi Kurang
+33,3,34,laki-laki,10,MUAMMAR ,Gizi Kurang
+43,11,95,laki-laki,8,SRI CAHYANTI NASUTION ,Gizi Lebih
+13,6,41,laki-laki,8,APRILIA JASMIN ,Gizi Baik
+51,6,59,laki-laki,8,MIRJA HSB ,Gizi Baik
+44,4,26,perempuan,9,UCOK AHMADI ,Gizi Kurang
+32,12,95,perempuan,11,RIZKY NASUTION ,Gizi Lebih
+25,8,103,laki-laki,9,RAFIKA ,Gizi Lebih
+12,10,93,perempuan,9,NAURA ANSHARI HSB ,Gizi Lebih
+55,6,43,laki-laki,11,ALI EMSIR ,Gizi Baik
+46,10,106,laki-laki,10,FATHAN ,Gizi Lebih
+3,5,51,perempuan,11,HASANUDDIN ,Gizi Baik
+23,2,23,perempuan,11,KHANZA NAIFAH ,Gizi Kurang
+21,12,80,perempuan,8,M.RAIFAN ,Gizi Lebih
+14,12,78,laki-laki,10,IBRAHIM ALI AKBAR ,Gizi Lebih
+37,7,90,perempuan,9,ALI AMRI DAULAY ,Gizi Lebih
+53,11,64,perempuan,11,AZIRA RAMADANI ,Gizi Lebih
+22,12,88,perempuan,9,M.ANUGRAH ,Gizi Lebih
+20,2,39,perempuan,11,RAHMAT ,Gizi Kurang
+20,12,63,perempuan,11,ZYEN MALIK ,Gizi Lebih
+11,10,98,perempuan,9,ALI HOTMAR LBS ,Gizi Lebih
+37,4,35,perempuan,8,ARISTA RIFANIA LBS ,Gizi Kurang
+30,3,20,laki-laki,11,AHMAT RASKA SIREGAR ,Gizi Kurang
+17,4,40,laki-laki,9,ARSYLA KHANZA PSB ,Gizi Kurang
+31,4,32,perempuan,8,MHD.AIDIL PASARIBU ,Gizi Kurang
+37,10,91,laki-laki,9,FILZAH NANDIKA HASIBUAN ,Gizi Lebih
+59,6,58,perempuan,9,ROMADON INRA JAYA ,Gizi Baik
+59,6,41,laki-laki,10,AMAD MARTUA ,Gizi Baik
+47,14,86,perempuan,8,BELLA ASYILLA SETYAWAN ,Gizi Lebih
+7,2,38,perempuan,8,ANGGINA PUTRI ,Gizi Kurang
+32,5,55,laki-laki,9,ADAM SALEH ,Gizi Baik
+36,12,95,laki-laki,11,HAZMY PULUNGAN  ,Gizi Lebih
+12,6,49,perempuan,8,GUFRON SAJADI ,Gizi Baik
+57,5,56,laki-laki,11,NABILA ,Gizi Baik
+11,11,94,perempuan,8,FADLIANSYAH HASIBUAN ,Gizi Lebih
+52,10,90,laki-laki,10,MHD. RAZIQ ,Gizi Lebih
+48,5,42,laki-laki,10,USMAN ,Gizi Baik
+36,8,76,perempuan,9,HAZMIATUL FADILLAH ,Gizi Lebih
+30,12,92,perempuan,10,HANIF HAMZAH NASUTION ,Gizi Lebih
+33,5,60,perempuan,8,SYAHRO ,Gizi Baik
+31,5,48,perempuan,10,IRHAM ,Gizi Baik
+4,12,108,laki-laki,11,NUR CAHYANING SIH HASIBUAN ,Gizi Lebih
+10,5,56,laki-laki,10,ARIF RIZKY ,Gizi Baik
+59,3,34,laki-laki,8,AULIA SARI ,Gizi Kurang
+39,6,59,perempuan,8,M AFNAN DABIT HSB ,Gizi Baik
+12,2,34,perempuan,8,KALISA ,Gizi Kurang
+44,4,30,laki-laki,11,PUTRA ,Gizi Kurang
+30,5,46,laki-laki,9,ZHAFAN ,Gizi Baik
+37,3,27,perempuan,10,MHD.RAMADHAN ,Gizi Kurang
+49,6,49,perempuan,9,M. ALI MUKTAR ,Gizi Baik
+45,3,33,perempuan,9,ALI HAMKA ,Gizi Kurang
+10,3,40,laki-laki,11,UCOK ,Gizi Kurang
+13,5,51,laki-laki,8,BAHANO PARISKI HSB ,Gizi Baik
+30,11,99,laki-laki,10,M. FADHIL RANANDA ,Gizi Lebih
+14,6,57,perempuan,11,SAIDIN DIAN FIRMANSYAH ,Gizi Baik
+42,5,46,laki-laki,10,NAHDIYA ,Gizi Baik
+49,4,30,perempuan,11,HAMET ,Gizi Kurang
+1,3,35,perempuan,8,UCOK RIKI ,Gizi Kurang
+6,7,73,perempuan,10,PANI PANE ,Gizi Lebih
+9,13,106,laki-laki,9,SAFRINA MARITO HASIBUAN ,Gizi Lebih
+49,4,35,perempuan,11,FAJAR SIDDIK ,Gizi Kurang
+39,10,104,perempuan,11,AMIR SAHLAN RANGKUTI ,Gizi Lebih
+55,9,108,laki-laki,8,FAISAL FADLI LUBIS ,Gizi Lebih
+57,4,20,laki-laki,9,SUCI KHUMAIROH ,Gizi Kurang
+27,14,110,laki-laki,10,NAISA ,Gizi Lebih
+60,8,103,laki-laki,10,NURHABIBAH ,Gizi Lebih
+17,7,58,perempuan,9,ANDRYANSAH ,Gizi Baik
+56,7,74,perempuan,8,AMIR SYAMSIR BATUBARA ,Gizi Lebih
+30,9,103,perempuan,11,UMAR SAFID ,Gizi Lebih
+56,6,48,perempuan,9,NURJANNA ,Gizi Baik
+41,4,20,laki-laki,9,BUTET NURHAMIDAH ,Gizi Kurang
+52,7,68,laki-laki,10,ADNAN HUSEIN RAMBE ,Gizi Lebih
+37,6,47,laki-laki,11,ALI TOPAN HSB ,Gizi Baik
+8,12,60,laki-laki,11,BASYIR AL-FARIZI LUBIS ,Gizi Lebih
+6,6,46,perempuan,8,ZAKY AL FATIH ,Gizi Baik
+55,5,47,laki-laki,8,UMAR PARTAONAN ,Gizi Baik
+23,6,53,laki-laki,8,NUR AISYAH HUMAIROH HSB ,Gizi Baik
+14,6,60,perempuan,9,ITO ,Gizi Baik
+24,8,109,perempuan,10,ALBIDZHAR YUSUF LUBIS ,Gizi Lebih
+50,3,31,perempuan,11,PARLIN ,Gizi Kurang
+23,13,85,laki-laki,10,ALFAN ,Gizi Lebih
+44,3,25,laki-laki,9,WIJAYA MARTUA PULUNGAN ,Gizi Kurang
+54,2,40,laki-laki,8,MHD.ZIKRI HIDAYAT ,Gizi Kurang
+7,9,101,laki-laki,10,LISNA AULIA HARAHAP ,Gizi Lebih
+7,4,22,laki-laki,10,ZAPARAS HSB ,Gizi Kurang
+42,4,28,laki-laki,10,RAZAN ,Gizi Kurang
+35,2,20,laki-laki,9,ALMUFLIHUN ,Gizi Kurang
+16,10,97,laki-laki,10,AULIA RIZKIANA ,Gizi Lebih
+44,6,51,laki-laki,11,NAURA RAMADANI ,Gizi Baik
+44,6,53,perempuan,10,M. HARIS ,Gizi Baik
+1,11,68,perempuan,9,RIVAL ARDIANSYAH ,Gizi Lebih
+47,3,25,perempuan,11,RURO ,Gizi Kurang
+41,12,105,laki-laki,9,MUSTOFA ANAL AHYAR LBS ,Gizi Lebih
+45,5,22,laki-laki,8,DAMAR ,Gizi Kurang
+5,14,100,perempuan,10,RAFA FAUZAN ,Gizi Lebih
+10,11,105,perempuan,8,GUNAWAN RIFAI SIRAGI ,Gizi Lebih
+38,8,70,laki-laki,10,GIBRAN ,Gizi Lebih
+9,4,40,laki-laki,8,AISHWA NAHLA ,Gizi Kurang
+49,10,65,perempuan,10,M. IKHSAN ,Gizi Lebih
+54,6,49,perempuan,9,MUAZZIM NST ,Gizi Baik
+8,2,20,laki-laki,12,ALIVA MURSIDA NST ,Gizi Kurang
+37,10,91,perempuan,8,BUTET ,Gizi Lebih
+56,5,55,laki-laki,10,RIFAI SULAIMAN ,Gizi Baik
+53,6,57,laki-laki,11,MUHAMMAD AHSAN ,Gizi Baik
+33,2,23,perempuan,8,AISYAH HUMAIRAH ,Gizi Kurang
+20,11,62,laki-laki,11,ANDRI FAIZ ,Gizi Lebih
+30,5,53,laki-laki,9,SITI HUMAIROH ,Gizi Baik
+40,6,52,perempuan,11,AIDIL RIDWAN ,Gizi Baik
+48,8,62,perempuan,11,SAHLA AQILA ,Gizi Lebih
+32,6,44,laki-laki,11,AYUMI GULTOM ,Gizi Baik
+4,13,91,laki-laki,11,ALHAMDI ,Gizi Lebih
+39,4,33,laki-laki,11,ANNUR HIDAYAH ,Gizi Kurang
+40,4,27,laki-laki,9,ELIZA ,Gizi Kurang
+20,6,46,perempuan,11,ASLAM ,Gizi Baik
+37,10,94,perempuan,9,AHMAD ZAIN PASARIBU ,Gizi Lebih
+20,5,55,perempuan,11,MUHAMMAD MAHDI ,Gizi Baik
+54,12,74,perempuan,8,AISHA QINARA ARSY DAULAY ,Gizi Lebih
+18,6,60,laki-laki,11,IMAN NOPAL ,Gizi Baik
+47,5,59,perempuan,10,ASKA DINA SAFITRI ,Gizi Baik
+32,12,76,perempuan,10,ADAM AKBAR ,Gizi Lebih
+31,4,30,perempuan,9,M. NAZRIL DLY ,Gizi Kurang
+13,5,54,perempuan,8,UTCOK NINA ,Gizi Baik
+47,2,31,laki-laki,9,SUNARDI ,Gizi Kurang
+11,5,48,laki-laki,11,NUR AZIZAH  ,Gizi Baik
+24,6,51,perempuan,8,DANIYAL ZABDAN HSB ,Gizi Baik
+6,5,45,laki-laki,8,ELIN ,Gizi Baik
+10,9,85,laki-laki,9,NUR KHANSA  ,Gizi Lebih
+44,11,69,laki-laki,10,ABDURRAHMAN HALOMOAN,Gizi Lebih
+54,6,58,perempuan,10,AHMAD ZUBEIR ,Gizi Baik
+4,4,26,perempuan,9,HAJIRAH ,Gizi Kurang
+44,6,40,perempuan,11,SONANG NIROHA ,Gizi Baik
+56,4,25,perempuan,10,AKILA SINTIA ,Gizi Kurang
+31,6,49,perempuan,10,DIMAS AFRIANSYAH ,Gizi Baik
+41,2,24,laki-laki,11,SILVIA ,Gizi Kurang
+39,14,105,perempuan,10,NAISYA PUTRI LUBIS ,Gizi Lebih
+50,3,26,perempuan,11,RAMZAN ACHMADOVIK ,Gizi Kurang
+40,3,40,laki-laki,9,MEIRA ,Gizi Kurang
+18,5,60,laki-laki,8,CAHAYA ,Gizi Baik
+36,4,37,perempuan,10,TIO ,Gizi Kurang
+41,6,42,perempuan,11,BILAL HADI NASUTION ,Gizi Baik
+23,5,54,perempuan,8,ARFANDI ,Gizi Baik
+48,6,56,laki-laki,11,SITI RAISA PERMATA ALMAIRAH ,Gizi Baik
+20,4,39,perempuan,10,MERI ZIKRIAH ,Gizi Kurang
+42,3,36,laki-laki,10,ILHAM ,Gizi Kurang
+47,2,32,laki-laki,10,DINA ,Gizi Kurang
+57,6,55,laki-laki,8,ALZA RAHMAN ,Gizi Baik
+12,3,33,laki-laki,9,NUR APIPAH HRP ,Gizi Kurang
+3,2,40,laki-laki,11,UCOK ,Gizi Kurang
+37,11,108,laki-laki,11,ARRASYA ,Gizi Lebih
+23,3,24,laki-laki,8,ABDUHA ,Gizi Kurang
+28,12,96,laki-laki,10,WARISA ,Gizi Lebih
+27,14,81,perempuan,8,SYAHIRA SYAFANI ,Gizi Lebih
+4,2,32,perempuan,9,YAZID AZ-ZIKRA ,Gizi Kurang
+59,8,110,perempuan,10,AIDA MAHRANI SIREGAR ,Gizi Lebih
+35,12,97,laki-laki,10,MHD DAFFA NASUTION ,Gizi Lebih
+48,8,74,laki-laki,8,MUHAMMAD ALWI ,Gizi Lebih
+41,8,66,laki-laki,9,NADA INDAH ,Gizi Lebih
+48,11,98,perempuan,8,ALI SUTAN NASUTION ,Gizi Lebih
+10,3,25,laki-laki,8,IHSAN HAMIDIN ,Gizi Kurang
+58,2,37,laki-laki,8,RISMAN ,Gizi Kurang
+2,4,24,perempuan,11,RIFKA ,Gizi Kurang
+5,5,41,laki-laki,10,AQILA SYAHILIA ,Gizi Baik
+33,15,93,perempuan,9,KRISNA LUBIS ,Gizi Lebih
+1,5,56,perempuan,9,NUR SAHARA ,Gizi Baik
+21,5,56,laki-laki,8,ALPAN AL FARIZI ,Gizi Baik
+32,3,30,laki-laki,11,KAILA RO RIZKINA ,Gizi Kurang
+46,6,47,laki-laki,8,ILYA NADIRA HSB ,Gizi Baik
+19,6,45,perempuan,11,MIFTHA NASUTION ,Gizi Baik
+35,4,40,perempuan,8,OKI SAMUDRA ,Gizi Kurang
+49,3,36,laki-laki,11,NOPI LASE ,Gizi Kurang
+1,11,110,laki-laki,10,RIDWAN ABNAS SANJAYA NST,Gizi Lebih
+34,4,28,laki-laki,11,SITI RAMADHANI ,Gizi Kurang
+53,12,64,laki-laki,8,HAJIJAH HASIBUAN ,Gizi Lebih
+47,5,51,laki-laki,10,UCOK ,Gizi Baik
+33,6,40,perempuan,8,BUTET ,Gizi Baik
+58,11,72,laki-laki,10,ZIVANNA LUBIS ,Gizi Lebih
+49,7,100,perempuan,11,UCOK HASIBUAN ,Gizi Lebih
+18,4,40,laki-laki,10,SANTRIANI ,Gizi Kurang
+46,4,29,laki-laki,11,KHODIJAH HASIBUAN ,Gizi Kurang
+43,2,28,perempuan,9,KEYLA ,Gizi Kurang
+32,6,52,laki-laki,10,GIFRAN ,Gizi Baik
+1,13,98,perempuan,9,MHD RINAL ,Gizi Lebih
+12,6,59,laki-laki,10,YULIANDRA ,Gizi Baik
+54,2,22,laki-laki,9,M. ADRIEL ,Gizi Kurang
+19,5,50,perempuan,8,M. HADI HSB ,Gizi Baik
+2,7,88,perempuan,9,QATRUNADA SALSABILA ,Gizi Lebih
+12,14,63,laki-laki,9,MUHAMMAD AFNAN ,Gizi Lebih
+19,6,47,laki-laki,9,NADIPA AGUSTIN ,Gizi Baik
+27,6,47,perempuan,9,ALIF FAHREZI ,Gizi Baik
+54,4,23,laki-laki,10,HARIADI ,Gizi Kurang
+22,7,95,perempuan,10,ABIZAR ,Gizi Lebih
+56,4,20,laki-laki,11,HOTNI ,Gizi Kurang
+50,5,55,perempuan,8,M. ANSOR  ,Gizi Baik
+41,7,82,laki-laki,11,KANAYA SALSABILA PANJAITAN ,Gizi Lebih
+3,4,30,laki-laki,9,TRI IFINA LASE ,Gizi Kurang
+39,5,52,laki-laki,11,M ALI SYAKIB ,Gizi Baik
+42,3,21,laki-laki,12,CAHAYA NANDA ,Gizi Kurang
+50,5,46,perempuan,10,AIRA ,Gizi Baik
+8,12,103,perempuan,10,RAFA ,Gizi Lebih
+47,6,60,laki-laki,11,QIZWA NABILA HRP ,Gizi Baik
+17,3,36,perempuan,10,NAZRIL ,Gizi Kurang
+53,11,106,laki-laki,9,HAWARI ADHA ,Gizi Lebih
+22,10,64,laki-laki,11,HARIST AL-GHAFFAR SILALAHI ,Gizi Lebih
+34,7,62,perempuan,11,UCOK ,Gizi Lebih
+10,2,40,perempuan,10,DINUR ,Gizi Kurang
+37,4,40,laki-laki,10,RISKI SYAPUTRA ,Gizi Kurang
+28,13,66,laki-laki,8,AZRIL ,Gizi Lebih
+9,6,43,laki-laki,10,Siska indriana nasution ,Gizi Baik
+19,5,55,perempuan,11,IMAM ADLI ,Gizi Baik
+7,11,61,laki-laki,9,HUMAIROH LUBIS ,Gizi Lebih
+33,6,47,laki-laki,10,IQBAL MAULANA ,Gizi Baik
+13,3,26,perempuan,10,BUTET ,Gizi Kurang
+34,3,20,perempuan,8,M. AIDIL ,Gizi Kurang
+24,3,20,perempuan,8,MADDIN SAFWANDER ,Gizi Kurang
+36,8,91,laki-laki,8,RAFA ,Gizi Lebih
+47,6,45,laki-laki,11,IRMAN  ,Gizi Baik
+36,10,81,perempuan,10,ALIYAH ,Gizi Lebih
+21,7,85,perempuan,10,RIMA AZIZAH SIMAJUNTAK ,Gizi Lebih
+26,3,20,laki-laki,10,ASMITA ,Gizi Kurang
+28,13,95,perempuan,9,HAFSAH APRIANI HSB ,Gizi Lebih
+24,3,38,perempuan,8,SALSA ,Gizi Kurang
+17,13,66,laki-laki,8,AQILA ZUHRIA NASUTION ,Gizi Lebih
+45,10,62,laki-laki,11,JASTIN ALFIAN ,Gizi Lebih
+13,2,39,laki-laki,9,SAKIRA OLIVIA HSB ,Gizi Kurang
+32,4,36,laki-laki,9,ALMER SRG ,Gizi Kurang
+19,4,29,laki-laki,10,AMRIS ,Gizi Kurang
+15,3,24,perempuan,11,AFIKA ,Gizi Kurang
+40,10,107,laki-laki,11,RAFA ALFARIJI ,Gizi Lebih
+46,5,40,perempuan,10,NAILA ,Gizi Baik
+45,7,61,perempuan,8,SOFANSAH HUTARABAT ,Gizi Lebih
+17,5,41,perempuan,10,ISKAN JAKI ,Gizi Baik
+58,14,64,laki-laki,10,ABDUL RASYID AHMAD SIREGAR ,Gizi Lebih
+42,6,42,perempuan,11,NAILA HUSNA ,Gizi Baik
+11,6,55,perempuan,8,RONA SAPUTRI ,Gizi Baik
+17,3,40,perempuan,8,JIHAN ,Gizi Kurang
+8,4,35,laki-laki,10,AQILA ,Gizi Kurang
+30,6,60,perempuan,9,ALI MUKTAR ,Gizi Baik
+28,9,75,perempuan,8,HASAN ARIFKI ,Gizi Lebih
+41,4,40,laki-laki,11,ARFAN TULUS ZEBUA ,Gizi Kurang
+6,6,44,perempuan,9,JULIANA ,Gizi Baik
+58,3,25,perempuan,8,AFIFA ,Gizi Kurang
+42,4,32,laki-laki,11,M.FAHRI ,Gizi Kurang
+38,11,63,laki-laki,9,NAUVAL SUNDUT IYUTAN,Gizi Lebih
+46,5,41,laki-laki,11,ARIEF MARAHODUM ,Gizi Baik
+46,6,59,laki-laki,10,NAYRA RAMADANI ,Gizi Baik
+40,2,22,laki-laki,8,SUMAYYA ALHASYMA SIREGAR ,Gizi Kurang
+41,3,30,perempuan,9,AFWA ,Gizi Kurang
+50,6,43,perempuan,8,JAPINA AULIA ,Gizi Baik
+8,3,35,perempuan,9,TOMAS SANJAYA ,Gizi Kurang
+42,6,57,laki-laki,8,PUTRI SALSABILA PSB ,Gizi Baik
+34,5,49,perempuan,11,SULAIMAN ,Gizi Baik
+17,14,98,laki-laki,8,YUMNA ,Gizi Lebih
+21,11,69,perempuan,10,IKHWAN LUBIS ,Gizi Lebih
+11,3,28,perempuan,11,BUTET LENI ,Gizi Kurang
+14,2,29,laki-laki,8,SARI ,Gizi Kurang
+3,11,81,laki-laki,9,AKSA AHMAD  ,Gizi Lebih
+28,10,106,laki-laki,8,ALYA NANDIAH ,Gizi Lebih
+43,6,57,perempuan,10,MHD ZEKSEN DLY ,Gizi Baik
+47,4,21,laki-laki,11,ISMET ,Gizi Kurang
+29,3,35,perempuan,8,PITA ,Gizi Kurang
+47,4,27,perempuan,11,AZRIL HABIB ,Gizi Kurang
+16,4,32,laki-laki,9,"""M,ALFATIH """,Gizi Kurang
+24,13,71,laki-laki,10,NAJILAH ALPIAH ,Gizi Lebih
+52,12,109,perempuan,10,MUHAMMAD SATRIA HSB ,Gizi Lebih
+10,5,47,laki-laki,8,DZAKIRA SIREGAR ,Gizi Baik
+43,6,41,perempuan,9,AGUM GUMELAR ,Gizi Baik
+8,11,67,laki-laki,8,RAMADANI SITOMMPUL ,Gizi Lebih
+15,3,21,laki-laki,8,AZZURA HUMAIROH ,Gizi Kurang
+2,6,46,perempuan,10,MARWAH ,Gizi Baik
+51,6,53,laki-laki,9,NUR AZIZAH PSB ,Gizi Baik
+44,2,39,laki-laki,8,AL FIKRI ,Gizi Kurang
+8,2,36,perempuan,9,ASKANA JAKIA ,Gizi Kurang
+10,6,56,perempuan,8,ARIF RAHMAT ,Gizi Baik
+9,10,72,laki-laki,10,GIBRAN AL BASITH ,Gizi Lebih
+26,13,100,perempuan,10,AZMIN TIRMIDZI HASIBUN ,Gizi Lebih
+50,3,40,laki-laki,8,BERKAT ,Gizi Kurang
+38,6,58,perempuan,11,WIDIA NAZRA ,Gizi Baik
+4,4,30,perempuan,11,ROHIM ,Gizi Kurang
+20,3,21,perempuan,8,ARKAN ,Gizi Kurang
+3,7,81,laki-laki,10,MARWAH AZHARI NASUTION ,Gizi Lebih
+24,4,22,perempuan,9,ERWIN RAMDANI LASE ,Gizi Kurang
+43,7,93,perempuan,9,IKHSAN ASSIDDIK ,Gizi Lebih
+42,6,60,laki-laki,9,TAMA ,Gizi Baik
+51,2,24,laki-laki,11,BUTET RAMAYANI ,Gizi Kurang
+8,13,94,perempuan,10,FATIMA AZZAHRA ,Gizi Lebih
+22,6,49,laki-laki,10,INSAN MAULANA ,Gizi Baik
+41,13,90,laki-laki,10,SOIBATUL MAULIDA HASIBUAN ,Gizi Lebih
+26,9,87,perempuan,8,MHD UWAIS AL QORNI HSB ,Gizi Lebih
+9,5,54,perempuan,11,AFLI AZHARI ,Gizi Baik
+57,6,56,perempuan,10,ANGGA ,Gizi Baik
+26,2,40,laki-laki,10,BUTET ,Gizi Kurang
+9,7,75,laki-laki,9,AFIFAH ZAHRA NASUTION ,Gizi Lebih
+25,4,28,perempuan,11,NABILA ASYIFAH ,Gizi Kurang
+47,6,57,laki-laki,11,ABIJAR ,Gizi Baik
+41,10,95,laki-laki,8,AYHAN LUBIS ,Gizi Lebih
+34,6,49,laki-laki,10,MARISA AZZAHRA ,Gizi Baik
+5,2,34,laki-laki,11,AQMAR NST ,Gizi Kurang
+1,4,28,laki-laki,10,IFAN ADHA ,Gizi Kurang
+51,6,50,perempuan,8,HENRI ,Gizi Baik
+48,2,29,laki-laki,9,DALISA ,Gizi Kurang
+36,6,60,perempuan,8,IMAM AZHAR HASIBUAN ,Gizi Baik
+22,6,55,perempuan,9,MEYAZIQ ,Gizi Baik
+54,5,58,perempuan,8,ABIDAH HOIRIH ,Gizi Baik
+54,6,56,laki-laki,9,AHMAD RAIHAN ,Gizi Baik
+56,11,93,laki-laki,10,HAFIDZ MUBAROK ,Gizi Lebih
+12,2,37,perempuan,11,ALFIZAH HASIBUAN ,Gizi Kurang
+23,4,28,laki-laki,9,MHD.ILMAN ALZAM NST ,Gizi Kurang
+60,12,102,laki-laki,11,UCOK ,Gizi Lebih
+13,4,26,laki-laki,11,AULIA ,Gizi Kurang
+33,6,41,perempuan,9,UCCOK/SITI HOMSATUN ,Gizi Baik
+52,5,58,perempuan,8,SOLIHIN ,Gizi Baik
+21,4,37,perempuan,8,WIJAYA PANOGUAN HSB ,Gizi Kurang
+18,8,63,laki-laki,11,AIDIL MALIK ,Gizi Lebih
+39,6,55,perempuan,11,AFKARA EFENDI HRP ,Gizi Baik
+29,3,34,perempuan,10,AMMAR ,Gizi Kurang
+18,7,43,perempuan,10,MHD MUNZIR THARIM HSB ,Gizi Baik
+58,3,21,perempuan,10,HABIB BAHAR ,Gizi Kurang
+47,2,22,laki-laki,9,SAFANA NAIRA ,Gizi Kurang
+57,7,71,perempuan,11,AISYAH SAFITRI ,Gizi Lebih
+24,13,98,perempuan,11,MITA ,Gizi Lebih
+41,4,26,perempuan,8,WILDA SYAKIRA ,Gizi Kurang
+5,14,97,laki-laki,9,AIDANSYAH ,Gizi Lebih
+22,8,90,perempuan,10,AQILA NALLA ,Gizi Lebih
+40,4,27,perempuan,9,TAHER ,Gizi Kurang
+41,6,60,perempuan,8,GIBRAN ,Gizi Baik
+36,8,85,perempuan,8,MUHAMMAD KARIM LUBIS ,Gizi Lebih
+8,2,25,laki-laki,9,YUKI UFAIRAH  ,Gizi Kurang
+10,4,31,perempuan,8,MARITO ,Gizi Kurang
+23,4,31,perempuan,9,MARITO ,Gizi Kurang
+28,14,91,perempuan,9,INDIRA ALISYA ,Gizi Lebih
+28,4,25,perempuan,8,BRYAN ,Gizi Kurang
+9,9,93,perempuan,11,YUSUF DAULAY ,Gizi Lebih
+44,7,63,perempuan,8,RENIA NELWA ,Gizi Lebih
+58,11,63,laki-laki,10,ZAID AKBAR NASUTION ,Gizi Lebih
+55,8,99,laki-laki,8,NADABILA ,Gizi Lebih
+13,4,28,laki-laki,8,AQILAH NAZWA ,Gizi Kurang
+23,6,44,perempuan,8,NISA KETARARI ,Gizi Baik
+7,4,32,perempuan,11,BUTET PAHOT ,Gizi Kurang
+36,6,42,perempuan,11,RAJA PANGADUAN ,Gizi Baik
+17,6,52,laki-laki,11,ALIFAH ,Gizi Baik
+43,11,101,laki-laki,10,BELLA AS-SYIFA NASUTION ,Gizi Lebih
+11,7,102,laki-laki,10,SALWA ARRIFDA NASUTION ,Gizi Lebih
+12,9,61,perempuan,10,MINTANA AINI PASARIBU ,Gizi Lebih
+4,5,60,laki-laki,8,RICKY HARUMAN ,Gizi Baik
+10,5,46,perempuan,10,DINARA ARSYILA ,Gizi Baik
+55,7,62,perempuan,8,LAYLA SITOMPUL ,Gizi Lebih
+13,6,40,laki-laki,11,ZAYDAN IBRAHIM AHMAD ,Gizi Baik
+41,5,50,laki-laki,11,ARHAM MARZUKI ,Gizi Baik
+49,2,26,perempuan,8,RAFLI ,Gizi Kurang
+6,3,37,laki-laki,11,AULIA NINGSIH ,Gizi Kurang
+9,5,41,laki-laki,9,FATIMAH INDAH ,Gizi Baik
+3,5,55,laki-laki,8,JENA HARA ,Gizi Baik
+11,5,41,laki-laki,8,RAISYAH HASANAH ,Gizi Baik
+35,13,72,perempuan,8,AINA ZAHRAN LUBIS ,Gizi Lebih
+59,7,48,laki-laki,10,NUR AFIDA ,Gizi Baik
+10,6,52,laki-laki,10,ZIKRA PIRDAUS HSB ,Gizi Baik
+39,3,25,laki-laki,8,NADI ,Gizi Kurang
+15,3,23,perempuan,9,RUDI ,Gizi Kurang
+59,6,58,perempuan,9,SAHNIDA ROMA ,Gizi Baik
+28,4,28,laki-laki,10,SITI NURHADIJAH ,Gizi Kurang
+44,4,34,perempuan,11,AMRI HUSNI ,Gizi Kurang
+55,7,95,perempuan,10,HAMIZAH SIREGAR ,Gizi Lebih
+39,6,41,laki-laki,9,AWAL ,Gizi Baik
+12,12,75,laki-laki,9,ANZANI RAMBE ,Gizi Lebih
+53,6,57,perempuan,10,SAKILA ,Gizi Baik
+40,5,58,laki-laki,9,ABD. RAHMAN ,Gizi Baik
+45,10,89,laki-laki,9,NUR RAHMADANI LUBIS ,Gizi Lebih
+23,7,78,perempuan,8,KHOMARIA SIREGAR ,Gizi Lebih
+57,12,92,perempuan,10,M.IBNU AZRIL ,Gizi Lebih
+54,8,99,laki-laki,10,SAGNAN HARAHAP ,Gizi Lebih
+22,10,92,perempuan,10,RAFIF SUKRI SIREGAR ,Gizi Lebih
+16,9,72,laki-laki,10,IRSYAD ZAIDAN HARAHAP ,Gizi Lebih
+5,4,32,laki-laki,8,HAFIZ ,Gizi Kurang
+18,4,21,laki-laki,8,AHZA RUMAISA DLY  ,Gizi Kurang
+42,2,21,laki-laki,9,BUTET NURDIN ,Gizi Kurang
+4,4,38,laki-laki,8,NAZWA AFIKAH PASARIBU ,Gizi Kurang
+43,7,78,perempuan,11,BUTET ,Gizi Lebih
+25,5,43,laki-laki,9,SUMAYYAH RAFIFAH HSB ,Gizi Baik
+4,5,55,perempuan,11,RAYYAN ,Gizi Baik
+56,3,31,perempuan,9,WILDA SYAKIRA ,Gizi Kurang
+26,9,108,laki-laki,10,RIFQY ,Gizi Lebih
+49,2,28,laki-laki,10,RIZKI APRILA ,Gizi Kurang
+2,5,48,perempuan,11,GIBRAN PULUNGAN ,Gizi Baik
+15,3,28,perempuan,10,ANGGINA PUTRI ,Gizi Kurang
+21,12,75,laki-laki,8,ADITIA PRATAMA ,Gizi Lebih
+60,5,55,perempuan,9,SANUM ,Gizi Baik
+2,7,65,laki-laki,9,KHARISMA BUNGA HASIBUAN ,Gizi Lebih
+14,6,53,perempuan,11,CITRA ,Gizi Baik
+49,14,91,laki-laki,8,LISDAYANI ,Gizi Lebih
+26,4,35,laki-laki,9,NAURA ,Gizi Kurang
+27,2,30,laki-laki,9,BAHRI ,Gizi Kurang
+38,5,48,laki-laki,8,ADIRA AZZAHRA ,Gizi Baik
+39,3,26,perempuan,8,TUTI ,Gizi Kurang
+57,6,50,perempuan,10,JUSRIN PSB ,Gizi Baik
+48,3,27,perempuan,9,FAISAL ,Gizi Kurang
+60,6,59,laki-laki,8,BELLA AULIA ,Gizi Baik
+3,2,31,laki-laki,11,M. ASYKARI HSB ,Gizi Kurang
+55,2,33,perempuan,11,NURAINUN ,Gizi Kurang
+53,2,21,laki-laki,9,ARSYILA MUTHIAH HSB ,Gizi Kurang
+46,14,69,perempuan,10,SULTAN AL HAFSI ,Gizi Lebih
+43,2,28,perempuan,10,WANDA SAFITRI ,Gizi Kurang
+19,14,108,perempuan,8,NUR ASYIFA ,Gizi Lebih
+14,3,26,perempuan,9,TIANUN ,Gizi Kurang
+17,8,70,perempuan,11,AZZAM HAFIZ DAULAY ,Gizi Lebih
+34,4,34,laki-laki,9,ALI IMRAN ,Gizi Kurang
+7,13,92,perempuan,9,ZEIN ,Gizi Lebih
+48,6,58,laki-laki,9,NAHDA SAFITRI ,Gizi Baik
+13,5,40,laki-laki,9,ASKA KHAIRAH ,Gizi Baik
+42,4,26,perempuan,8,UCOK JUWITA ,Gizi Kurang
+5,4,23,perempuan,8,GIBRAN ,Gizi Kurang
+4,5,47,laki-laki,8,UTCOK HASIBUAN ,Gizi Baik
+21,10,103,perempuan,11,NURAMINAH ,Gizi Lebih
+17,11,78,perempuan,9,NUR HAPIAH ,Gizi Lebih
+27,2,36,perempuan,8,HALIFSAN HASIBUAN ,Gizi Kurang
+38,5,51,perempuan,10,SELIN KHANZA BILQIS  ,Gizi Baik
+13,6,44,perempuan,8,HERI RIFALDI NST ,Gizi Baik
+59,8,98,laki-laki,9,AHMAD ASHAR ,Gizi Lebih
+51,5,43,perempuan,11,NUR AZIZAH ,Gizi Baik
+51,3,39,laki-laki,10,NURKHOLILAH ,Gizi Kurang
+49,2,23,laki-laki,8,KHOIRUL AZAM ,Gizi Kurang
+60,6,52,perempuan,9,RIFKY AZHARI ,Gizi Baik
+19,9,62,laki-laki,9,BUNGA  ,Gizi Lebih
+2,10,76,laki-laki,10,BUTET ,Gizi Lebih
+47,6,59,laki-laki,11,MHD. IMAM AL-FATIH ,Gizi Baik
+59,5,47,laki-laki,11,ARIF RIZKY ,Gizi Baik
+7,8,82,laki-laki,8,NAWIR ASNAINI ,Gizi Lebih
+3,5,45,perempuan,11,M. ARIF AHKAM ,Gizi Baik
+50,4,25,perempuan,9,MIKA ,Gizi Kurang
+52,14,69,perempuan,9,ALI RAHMAT LUBIS ,Gizi Lebih
+52,4,40,perempuan,11,FARAH ,Gizi Kurang
+5,11,105,laki-laki,8,ROIQ AL AZKA ,Gizi Lebih
+55,4,24,perempuan,9,FAJAR ,Gizi Kurang
+48,9,106,laki-laki,9,RAFLI ALAMSYAH ,Gizi Lebih
+57,10,87,perempuan,10,KHANZA ZAHIRA LUBIS ,Gizi Lebih
+60,11,86,perempuan,10,M AQIL ,Gizi Lebih
+53,13,72,perempuan,11,HAMKA HAMZAH TAGOR ,Gizi Lebih
+2,3,28,perempuan,10,RAISYA ,Gizi Kurang
+45,8,75,perempuan,9,MUKHLIS HARAHAP ,Gizi Lebih
+19,2,38,laki-laki,10,UCOK DEWI ,Gizi Kurang
+16,5,57,perempuan,9,AULIA SYAPUTRI ,Gizi Baik
+51,13,88,laki-laki,8,KHAIRUL FADLI ,Gizi Lebih
+39,4,25,laki-laki,11,ADELIA ,Gizi Kurang
+57,14,72,laki-laki,10,NAZIRA RAMBE ,Gizi Lebih
+59,7,70,laki-laki,11,ROBBY SAPUTRA ,Gizi Lebih
+6,6,60,laki-laki,11,KIRANA ,Gizi Baik
+5,6,52,perempuan,11,AQIFA NAILA ,Gizi Baik
+36,4,35,perempuan,8,ASNORA ,Gizi Kurang
+6,6,59,perempuan,9,AISYAH ,Gizi Baik
+55,6,53,laki-laki,8,ULFAHIRA FATIN ,Gizi Baik
+46,10,103,laki-laki,10,SUFIAH ,Gizi Lebih
+52,13,99,laki-laki,8,M AQIB ,Gizi Lebih
+41,6,51,laki-laki,11,MHD.ALWI ,Gizi Baik
+4,6,51,perempuan,10,AMELIA RAMA ,Gizi Baik
+9,5,48,laki-laki,8,PAREL ,Gizi Baik
+39,13,97,perempuan,11,SITI KHODIJAH ,Gizi Lebih
+49,8,106,perempuan,8,TIARA LESTARI ,Gizi Lebih
+49,12,106,laki-laki,8,BAGUS ANGKASA ,Gizi Lebih
+37,7,92,perempuan,9,ZASKIA NATASYA LASE ,Gizi Lebih
+35,3,32,laki-laki,11,AHYAR ,Gizi Kurang
+44,14,72,laki-laki,9,NUR SYIFA AULIA ,Gizi Lebih
+20,6,44,laki-laki,9,JIHAN MUFIDA PULUNGAN ,Gizi Baik
+40,2,28,perempuan,8,UCOK SAHLAN ,Gizi Kurang
+35,8,83,laki-laki,11,CALISTA HUMAIRA NASUTION ,Gizi Lebih
+9,6,43,perempuan,10,KAMELIA ,Gizi Baik
+15,8,75,perempuan,8,IDA MURNI RANGKUTI ,Gizi Lebih
+38,2,27,perempuan,10,RISKI NURJANAH ,Gizi Kurang
+42,14,66,laki-laki,10,NAZWA HILMI SIMANJUNTAK ,Gizi Lebih
+50,4,24,perempuan,9,ALYA SAHIRA ,Gizi Kurang
+42,13,105,laki-laki,8,ADAM FAIZ ARKHAN ,Gizi Lebih
+1,4,36,laki-laki,11,AIRA ,Gizi Kurang
+40,2,30,perempuan,8,HASANAH ,Gizi Kurang
+8,3,31,laki-laki,12,NURJAMIAH ,Gizi Kurang
+51,3,27,perempuan,9,Fariza arsyilah hsb ,Gizi Kurang
+25,2,31,laki-laki,11,HAPZI ,Gizi Kurang
+44,3,37,perempuan,10,VALENCIA ,Gizi Kurang
+55,11,85,laki-laki,8,MUHAMMAD SAWAL  ,Gizi Lebih
+10,9,70,perempuan,10,HAMIDAH HASIBUAN ,Gizi Lebih
+45,13,83,laki-laki,10,PRITY MEIYOLA ,Gizi Lebih
+15,6,45,perempuan,11,ALMANSYAH ,Gizi Baik
+37,6,59,perempuan,11,ADZRA TRI DIANTO ,Gizi Baik
+4,4,40,perempuan,9,M. KEENAN AL-FATIH ,Gizi Kurang
+33,2,27,perempuan,9,AMRIL ,Gizi Kurang
+37,4,26,perempuan,9,HAMZAH ,Gizi Kurang
+13,10,61,perempuan,11,M RANGGA ,Gizi Lebih
+23,14,110,laki-laki,9,SAHBAS ,Gizi Lebih
+42,11,99,perempuan,9,ALUCARD HASIBUAN ,Gizi Lebih
+27,2,36,laki-laki,10,SASTIA NDURU ,Gizi Kurang
+48,14,77,perempuan,11,AMIRAH SARAH SIREGAR ,Gizi Lebih
+29,3,25,laki-laki,9,DESNIDAR GULO ,Gizi Kurang
+25,7,89,perempuan,11,M.MURAD ,Gizi Lebih
+43,5,58,laki-laki,11,FIQIH NUZUL ,Gizi Baik
+1,5,49,perempuan,11,M. AGUNG AS-SOLEH ,Gizi Baik
+48,11,102,laki-laki,9,RAZIKA ,Gizi Lebih
+59,7,87,perempuan,9,MUHAMMAD FARHAN PANE ,Gizi Lebih
+11,7,83,perempuan,11,ALMAHIRA ,Gizi Lebih
+2,2,21,laki-laki,10,CIPTA ,Gizi Kurang
+27,13,65,perempuan,10,ZAY RIZKY ADITYA ,Gizi Lebih
+46,6,53,laki-laki,9,RAFI ,Gizi Baik
+47,6,51,perempuan,8,M. PAJAI SAPUTRA ,Gizi Baik
+44,5,46,perempuan,8,DENNI ,Gizi Baik
+14,9,80,laki-laki,10,MUHAMMAD ZAKI SIREGAR ,Gizi Lebih
+10,7,94,laki-laki,11,WAHYU ABNAN HSB ,Gizi Lebih
+17,4,32,perempuan,10,FITRI MARITO ,Gizi Kurang
+42,6,53,perempuan,11,SUCI AMARA ,Gizi Baik
+47,5,48,laki-laki,10,RIA WAHYUNI ,Gizi Baik
+5,5,58,laki-laki,9,ZAKIAH ,Gizi Baik
+24,2,34,perempuan,10,NAPIJAH ,Gizi Kurang
+26,10,85,laki-laki,9,NOUFAL ALFARIZI ,Gizi Lebih
+22,12,71,laki-laki,10,AYUNA FARADIBA ,Gizi Lebih
+32,11,105,perempuan,8,ARSYAD ZAIDAN BAIHAQI LUBIS ,Gizi Lebih
+47,10,106,laki-laki,11,RAFFA  ,Gizi Lebih
+31,13,81,laki-laki,8,ALFAKKI ,Gizi Lebih
+46,4,29,laki-laki,9,RINGGO ,Gizi Kurang
+35,2,28,perempuan,12,RISMAN BUULOLO ,Gizi Kurang
+6,11,110,perempuan,9,IWAN SYAHPUTRA HASIBUAN ,Gizi Lebih
+27,14,100,laki-laki,11,AMINAH LUBIS ,Gizi Lebih
+7,5,45,laki-laki,11,WAIS ANUGRAH HSB ,Gizi Baik
+20,2,31,perempuan,10,DINI ,Gizi Kurang
+54,5,45,laki-laki,10,MHD.ZULKIPLI DLY ,Gizi Baik
+23,3,21,perempuan,12,JAIDAN ,Gizi Kurang
+11,8,72,laki-laki,9,MUTIARA SARI LUBIS ,Gizi Lebih
+29,7,93,laki-laki,8,ABDUL AZIZ AHMAD SIREGAR ,Gizi Lebih
+32,6,45,laki-laki,11,M.AQSYAL AL FARIZI ,Gizi Baik
+32,11,68,perempuan,11,RADITYA SURYA LUBIS ,Gizi Lebih
+18,5,41,perempuan,9,Firli ,Gizi Baik
+25,9,74,perempuan,10,BILQIS HUMAIROH ,Gizi Lebih
+13,6,47,laki-laki,10,NADIRA SHAKILA HSB ,Gizi Baik
+32,2,22,perempuan,9,MHD.DAFA AL-FATIH ,Gizi Kurang
+48,5,57,perempuan,11,SALWA ,Gizi Baik
+47,10,96,perempuan,9,SYAHDI NANNUR SIREGAR ,Gizi Lebih
+40,8,83,laki-laki,9,KARINA PUTRI ,Gizi Lebih
+5,6,42,perempuan,9,BUTET ALPEN ,Gizi Baik
+52,2,32,perempuan,8,SUHAILUDIN ,Gizi Kurang
+34,10,100,laki-laki,9,HUMAIROH ,Gizi Lebih
+30,6,46,perempuan,10,AHMAD HAMDI ,Gizi Baik
+33,2,28,perempuan,9,MICEL SAPUTRI LASE ,Gizi Kurang
+49,5,55,perempuan,8,M.AZHARI ,Gizi Baik
+42,2,32,perempuan,11,MIRNA ,Gizi Kurang
+16,6,40,laki-laki,11,UCCOK ,Gizi Baik
+40,9,79,perempuan,9,GUSMAN HASIBUAN ,Gizi Lebih
+43,2,39,perempuan,11,AULIA SAFITRI ,Gizi Kurang
+37,5,42,perempuan,11,M.MIJUB ,Gizi Baik
+16,2,28,perempuan,11,CHIKA KANSA ,Gizi Kurang
+1,8,86,laki-laki,9,AMIRRULLAH LUBIS ,Gizi Lebih
+33,10,73,laki-laki,8,ALYA HANDAYANI ,Gizi Lebih
+56,6,53,laki-laki,8,YAHYA ALI NURDIN ,Gizi Baik
+32,4,20,laki-laki,8,NAHDYA ,Gizi Kurang
+31,2,27,perempuan,10,SALMA ,Gizi Kurang
+6,6,44,perempuan,11,AKIFAH ,Gizi Baik
+7,6,59,laki-laki,9,M. KAIF ,Gizi Baik
+57,4,32,perempuan,11,FARIS ,Gizi Kurang
+40,3,38,perempuan,9,MIRA ROSA ,Gizi Kurang
+40,2,32,laki-laki,9,HASNAH ,Gizi Kurang
+9,7,46,perempuan,11,ALFIFARUDDIN PASARIBU  ,Gizi Baik
+55,6,44,perempuan,10,HAFIZAH NAYYARA ,Gizi Baik
+44,3,29,perempuan,11,AIRA RIZKINA HRP ,Gizi Kurang
+16,5,41,perempuan,10,RAHMAN ,Gizi Baik
+53,3,27,laki-laki,11,TAHER HASIBUAN ,Gizi Kurang
+48,7,59,perempuan,10,ALFI PARUDDIN PSB ,Gizi Baik
+17,6,49,laki-laki,9,SERLI MAULANA ,Gizi Baik
+29,6,40,laki-laki,8,DEFRI NST ,Gizi Baik
+35,5,49,perempuan,10,EJI RANGGA ,Gizi Baik
+10,2,20,perempuan,8,ALISA SALSA ,Gizi Kurang
+36,3,34,laki-laki,11,MHD HSB ,Gizi Kurang
+39,6,53,laki-laki,9,NUR HANIFAH ,Gizi Baik
+33,4,40,laki-laki,9,UCOK MIRLO ,Gizi Kurang
+30,7,83,perempuan,11,SITI AISYAH ,Gizi Lebih
+11,2,39,perempuan,11,MUHAMMAD ,Gizi Kurang
+1,5,56,perempuan,11,NAYRA RAMADHANI ,Gizi Baik
+31,2,36,perempuan,11,AULIA RAMADHANI DLY ,Gizi Kurang
+13,6,53,laki-laki,8,AFIQ FAREL HSB ,Gizi Baik
+39,4,24,laki-laki,11,ABIJAN ,Gizi Kurang
+21,13,107,laki-laki,8,MUHAMMAD AL KAHFI NST ,Gizi Lebih
+15,14,100,laki-laki,10,SUKRI ALIMUDDIN ,Gizi Lebih
+21,8,102,perempuan,10,NURUL KHOFIFAH ,Gizi Lebih
+2,7,60,perempuan,9,SARMILA FITRI YANTI NASUTION ,Gizi Lebih
+44,10,76,perempuan,10,REZA AR-RIVALDI BATUBARA ,Gizi Lebih
+28,5,51,laki-laki,11,ABANG ,Gizi Baik
+51,3,29,laki-laki,11,M.ABIZAR ,Gizi Kurang
+52,3,40,laki-laki,10,NADHIF HRP ,Gizi Kurang
+9,5,53,laki-laki,10,M. HANIF ,Gizi Baik
+44,2,25,laki-laki,10,AURELIA ALMASIRA NASUTION ,Gizi Kurang
+49,3,24,laki-laki,8,AL FAJAR ,Gizi Kurang
+53,6,48,perempuan,11,MURLI ,Gizi Baik
+17,6,54,perempuan,10,FIRZA AMASYA ,Gizi Baik
+48,7,85,laki-laki,9,GIBRAN KALPANI  ,Gizi Lebih
+20,4,33,perempuan,11,RATU AQILAH HSB ,Gizi Kurang
+35,6,55,laki-laki,11,SASLA SARTIKA ,Gizi Baik
+9,2,30,perempuan,10,HABIB RIZIK ,Gizi Kurang
+19,14,96,laki-laki,11,MAYOR ,Gizi Lebih
+46,2,39,perempuan,10,IKHWANUL ,Gizi Kurang
+11,3,29,laki-laki,11,M. HAFLA HSB ,Gizi Kurang
+26,2,35,laki-laki,12,AFZAHURROHMAN ALI HSB ,Gizi Kurang
+15,4,23,perempuan,10,KANZA ,Gizi Kurang
+13,3,30,perempuan,11,ISMA ,Gizi Kurang
+2,5,46,perempuan,9,UCCOK/PAYUNGAN ,Gizi Baik
+52,3,38,perempuan,8,BUTET ,Gizi Kurang
+16,3,23,perempuan,10,AMAR ,Gizi Kurang
+28,5,50,perempuan,10,DIPAN MAULANA ,Gizi Baik
+46,6,59,perempuan,10,NUR HILDA NST ,Gizi Baik
+39,10,102,perempuan,10,SYAHPUTRI NASUTION ,Gizi Lebih
+24,5,47,laki-laki,9,NAUFAL ,Gizi Baik
+41,9,110,laki-laki,9,ALFAIZU ,Gizi Lebih
+36,5,41,laki-laki,10,NUR ATIKAH ,Gizi Baik
+50,4,38,perempuan,9,FAIZ ANANDA ,Gizi Kurang
+28,5,50,laki-laki,9,AIMAN ,Gizi Baik
+2,4,29,laki-laki,11,PARHAN ,Gizi Kurang
+18,6,56,perempuan,9,RAMDAN ,Gizi Baik
+17,5,40,laki-laki,10,MHD BUHORI HSB ,Gizi Baik
+31,2,22,perempuan,11,BOUY IRNA NST ,Gizi Kurang
+7,8,77,perempuan,11,SILVANA FAZRI DALIMUNTHE ,Gizi Lebih
+36,2,22,laki-laki,8,FAHRUL MUJI ,Gizi Kurang
+53,5,41,perempuan,8,AFIFAH ,Gizi Baik
+46,7,44,laki-laki,8,KHANZA ,Gizi Baik
+30,7,77,laki-laki,9,AISAH ,Gizi Lebih
+41,4,22,perempuan,9,HULYA ,Gizi Kurang
+3,14,97,laki-laki,8,WAFIQ NAJIA ,Gizi Lebih
+43,9,77,laki-laki,10,AL-HABSI ,Gizi Lebih
+22,3,32,laki-laki,10,NOVAL ,Gizi Kurang
+6,2,38,perempuan,8,M. ARI NIZAM ,Gizi Kurang
+36,12,85,perempuan,10,AYU RAMADHANI ,Gizi Lebih
+23,5,59,perempuan,9,AZKAIRA  ,Gizi Baik
+36,9,109,laki-laki,8,M RAJAB ,Gizi Lebih
+43,6,50,laki-laki,9,M.GIBRAN NAUFAL LBS ,Gizi Baik
+10,5,56,laki-laki,11,SALSA SARTIKA ,Gizi Baik
+2,8,91,laki-laki,10,UCOK HARAHAP ,Gizi Lebih
+38,11,87,laki-laki,11,SAPUTRA HAMDI ,Gizi Lebih
+50,10,92,laki-laki,9,ANNISA ,Gizi Lebih
+39,12,89,perempuan,10,AFIFAH NAILA ,Gizi Lebih
+50,6,58,perempuan,8,HAIKAL SANJA ,Gizi Baik
+22,2,39,laki-laki,8,FATMAH ,Gizi Kurang
+38,2,28,laki-laki,8,ZAHRA ,Gizi Kurang
+8,15,77,laki-laki,9,NAURA ALMAYRA ,Gizi Lebih
+48,4,35,laki-laki,8,TONDI ,Gizi Kurang
+20,12,79,laki-laki,10,MAULIDA HUMAYROH ,Gizi Lebih
+12,6,53,perempuan,10,BUDI ,Gizi Baik
+38,5,44,perempuan,11,YULIANRA ,Gizi Baik
+53,2,35,perempuan,10,ABIZAR ,Gizi Kurang
+39,5,56,laki-laki,8,ARIEF PSB ,Gizi Baik
+51,7,58,laki-laki,8,HAFIZAH ,Gizi Baik
+21,5,43,laki-laki,10,MELI ANDINI ,Gizi Baik
+7,6,43,laki-laki,10,AKMAR ,Gizi Baik
+18,5,55,laki-laki,11,ALIF RIPALDI ,Gizi Baik
+7,11,77,laki-laki,10,ADILA PUTRI  ,Gizi Lebih
+1,5,45,laki-laki,9,ADIBA ,Gizi Baik
+35,4,23,perempuan,8,WANDA PRATAMA  ,Gizi Kurang
+40,5,58,laki-laki,9,RAHWAN ,Gizi Baik
+47,5,44,perempuan,10,AIDIL MALIK ,Gizi Baik
+27,6,40,perempuan,11,NUR ALESYA DAULAY ,Gizi Baik
+16,3,22,perempuan,9,DIKY SAPUTRA  ,Gizi Kurang
+41,5,58,perempuan,11,IFAN AFRIJAL ,Gizi Baik
+60,7,55,perempuan,9,NADIMA ,Gizi Baik
+45,14,74,laki-laki,10,MHD ALFAIZU DAULAY ,Gizi Lebih
+33,7,109,perempuan,9,KHAIRA HASIBUAN ,Gizi Lebih
+3,5,55,perempuan,11,MUHAMMAD ANGGA ,Gizi Baik
+5,10,72,laki-laki,10,RAFKA ABQORI ,Gizi Lebih
+42,12,100,laki-laki,9,AZKA ZAYDAN ,Gizi Lebih
+5,4,38,perempuan,8,MASHURI ,Gizi Kurang
+45,6,40,perempuan,10,NAZWA UMMIYAH ,Gizi Baik
+6,4,29,perempuan,8,ROSA ,Gizi Kurang
+58,8,101,perempuan,9,INAYAH NASUTION ,Gizi Lebih
+45,14,109,perempuan,11,BUNGA HANNUM RISMA ,Gizi Lebih
+41,2,33,perempuan,9,QYARA ASHALENA ,Gizi Kurang
+43,3,39,perempuan,10,ALMAHYRA RIZQIANA LBS ,Gizi Kurang
+5,12,98,perempuan,10,BUDI SENTOSA ,Gizi Lebih
+28,5,49,laki-laki,11,QAYLA RAMADHANI NST ,Gizi Baik
+45,11,89,laki-laki,11,ANZARA SIREGAR ,Gizi Lebih
+38,5,51,laki-laki,11,JULIANI ,Gizi Baik
+16,6,52,laki-laki,8,NIZAR ALFAHRI HASIBUAN ,Gizi Baik
+55,5,53,laki-laki,11,M.IKMAL ,Gizi Baik
+48,10,99,laki-laki,10,ANNUR SIREGAR ,Gizi Lebih
+23,6,49,perempuan,8,ANDIKA ,Gizi Baik
+24,4,36,perempuan,10,BUTET DESI ,Gizi Kurang
+33,11,72,laki-laki,9,SULTAN AL-HAFSI   ,Gizi Lebih
+1,8,84,laki-laki,9,LESTIANI SELFI LASE ,Gizi Lebih
+8,11,97,laki-laki,10,AL FAZRI HSB ,Gizi Lebih
+13,5,56,perempuan,11,ADIL NST ,Gizi Baik
+51,2,36,laki-laki,9,LESTARI LASE ,Gizi Kurang
+7,5,50,perempuan,11,SITI AYSAH ,Gizi Baik
+46,9,77,perempuan,11,ASLAIDA NASUTION ,Gizi Lebih
+46,2,35,perempuan,10,RAYSA HANUM ,Gizi Kurang
+8,14,88,perempuan,9,TANTI RAHAYU ,Gizi Lebih
+55,7,106,perempuan,10,KIMMY ,Gizi Lebih
+15,3,31,laki-laki,10,KHALISA ,Gizi Kurang
+43,5,44,laki-laki,8,AZKA DINA ,Gizi Baik
+13,11,60,perempuan,8,NUR AJIJAH ,Gizi Lebih
+6,10,66,perempuan,11,FAHRUL ALFAZRI ,Gizi Lebih
+52,9,92,laki-laki,9,SITI ROYHANNUM  ,Gizi Lebih
+43,14,96,laki-laki,10,ARIF MAULANA ,Gizi Lebih
+45,5,45,perempuan,11,HANA ,Gizi Baik
+29,4,31,laki-laki,11,M. RAFKA AL-FATIH ,Gizi Kurang
+26,13,71,laki-laki,8,AL AMIN ,Gizi Lebih
+7,2,40,perempuan,9,UCOK ,Gizi Kurang
+52,10,105,perempuan,9,SAPUTRA ,Gizi Lebih
+28,5,44,perempuan,10,ASHAN RAMBE ,Gizi Baik
+28,6,47,laki-laki,9,SAHDAN ,Gizi Baik
+16,2,29,perempuan,11,MHD.MAHEER AL HUSAYN ,Gizi Kurang
+45,5,54,laki-laki,11,SEHAT ,Gizi Baik
+40,3,30,laki-laki,10,HAFIZ NASWAN ,Gizi Kurang
+16,4,25,perempuan,8,MOHIB ,Gizi Kurang
+48,2,37,perempuan,9,RUNI ,Gizi Kurang
+28,2,34,perempuan,11,DENIS ,Gizi Kurang
+27,6,47,perempuan,10,ACHMAD AZLI FAIRUZ ,Gizi Baik
+34,8,88,laki-laki,8,AISYAH ,Gizi Lebih
+35,14,93,perempuan,10,ANNISA ZAHRA HASIBUAN ,Gizi Lebih
+15,7,105,laki-laki,9,RAISA APRILA ,Gizi Lebih
+30,4,40,perempuan,10,PINA NAITUL ,Gizi Kurang
+26,13,65,laki-laki,10,JAYA ABDI DLY ,Gizi Lebih
+17,3,31,laki-laki,11,AULIA R ,Gizi Kurang
+52,5,58,laki-laki,10,MHD. IMAM ,Gizi Baik
+50,9,78,laki-laki,8,M.RIDOAN ,Gizi Lebih
+21,3,36,perempuan,11,PRIYA AURORA HASIBUAN ,Gizi Kurang
+20,5,43,laki-laki,10,RENDI ,Gizi Baik
+9,8,64,laki-laki,10,MHD AZWAR SRG ,Gizi Lebih
+26,6,50,perempuan,10,ADEK ,Gizi Baik
+31,8,93,laki-laki,10,ADENA ,Gizi Lebih
+16,5,40,perempuan,10,SITI AMINAH ,Gizi Baik
+52,6,44,laki-laki,10,NIZAM ,Gizi Baik
+25,9,80,laki-laki,10,RASYA NABILA SIMAMORA ,Gizi Lebih
+42,10,103,perempuan,8,SILVIA RIZA ,Gizi Lebih
+6,2,26,perempuan,11,AMRUL ,Gizi Kurang
+58,4,31,perempuan,11,MISNA ,Gizi Kurang
+39,11,66,perempuan,8,NALOM HALOMOAN ,Gizi Lebih
+20,2,38,perempuan,8,ANNUR ,Gizi Kurang
+7,5,43,perempuan,10,AFIFAH WASILA ,Gizi Baik
+15,3,27,laki-laki,10,ZAIDAN ,Gizi Kurang
+33,8,60,perempuan,11,AHMAD SAHRIM HARAHAP ,Gizi Lebih
+32,11,61,perempuan,8,AQILA KLARISA ,Gizi Lebih
+42,5,51,perempuan,11,TARA AFLA KAILA ,Gizi Baik
+31,6,47,laki-laki,8,RIFKI ,Gizi Baik
+28,8,65,perempuan,11,ALESHA PUTRI ,Gizi Lebih
+26,3,35,perempuan,10,HAFIFAH ILYA ,Gizi Kurang
+56,7,91,laki-laki,9,AMELIA SIREGAR ,Gizi Lebih
+49,2,25,perempuan,9,HAKIM ROMADON ,Gizi Kurang
+32,5,58,laki-laki,9,ZAHIRA SALSABILA HSB ,Gizi Baik
+1,4,40,perempuan,9,CENTIN GULO ,Gizi Kurang
+47,12,60,perempuan,10,MUHAMMAD FARIS ,Gizi Lebih
+12,4,20,perempuan,9,FAHAS ,Gizi Kurang
+14,6,53,laki-laki,9,LINNI ,Gizi Baik
+49,4,33,perempuan,10,ARYAN MAULIDAN  ,Gizi Kurang
+56,6,58,perempuan,8,ANNISA ,Gizi Baik
+3,6,43,perempuan,8,ANDRA JATEMBANG ,Gizi Baik
+20,5,47,laki-laki,10,REZKI BILZIA ,Gizi Baik
+36,10,95,laki-laki,9,ZIA TISHA TAMARA HUTASUHUT ,Gizi Lebih
+30,12,101,laki-laki,11,AZRAL ,Gizi Lebih
+45,2,23,laki-laki,10,AZIZAH ,Gizi Kurang
+54,8,95,laki-laki,9,KHANSA KHAIRIYAH PSARIBU ,Gizi Lebih
+29,5,57,perempuan,8,LUKMAN ARIE ,Gizi Baik
+13,4,22,laki-laki,8,SALWA APIPAH HSB ,Gizi Kurang
+41,6,40,laki-laki,9,ROY ASWANDY NATAMA LUBIS ,Gizi Baik
+56,12,82,perempuan,9,SIVIA PANE ,Gizi Lebih
+20,2,22,laki-laki,8,IMAM ROSADI ,Gizi Kurang
+56,5,45,perempuan,9,MARWIYAH AZKIA ,Gizi Baik
+54,6,49,perempuan,8,RAFI NAEKAN NST ,Gizi Baik
+45,4,25,perempuan,10,BUTET MARNI ,Gizi Kurang
+7,6,47,perempuan,8,NUR SAHARA ,Gizi Baik
+36,5,54,laki-laki,11,HAPIS ,Gizi Baik
+59,5,43,perempuan,10,RISKA SAFITRI ,Gizi Baik
+50,4,28,perempuan,11,MIFTACHUL AKHYAR NST ,Gizi Kurang
+40,13,68,laki-laki,10,NAJIPA ,Gizi Lebih
+59,4,31,perempuan,9,M.ALI FAUZAN ,Gizi Kurang
+43,14,85,laki-laki,9,AISY HANEEN AL AKIRA LUBIS ,Gizi Lebih
+15,6,48,perempuan,8,MHD ABDUL ROJAK ,Gizi Baik
+10,6,59,laki-laki,9,KEIYSA AURELLA NST ,Gizi Baik
+24,13,67,laki-laki,11,MHD. IHYA SOLIHIN ,Gizi Lebih
+3,2,28,laki-laki,10,JELIS ,Gizi Kurang
+40,6,41,laki-laki,9,NUR ABIDAH ,Gizi Baik
+55,4,39,perempuan,9,NAWILAN ,Gizi Kurang
+49,8,97,laki-laki,9,LOPES HASIBUAN ,Gizi Lebih
+17,11,85,perempuan,8,MUHAMMAD PADLI RIZKI,Gizi Lebih
+49,6,57,laki-laki,9,ARTIKA SARI ,Gizi Baik
+50,2,31,perempuan,10,JUNITA SAFITRI ,Gizi Kurang
+51,2,28,laki-laki,9,MHD.YAHYA NST ,Gizi Kurang
+19,5,21,perempuan,8,ASWIKA MESRA INRYI KASIH,Gizi Kurang
+59,8,89,perempuan,9,SALWA AFIYAH ,Gizi Lebih
+59,6,47,laki-laki,11,SHIFO RIFAI ,Gizi Baik
+50,6,44,laki-laki,8,ARISA WAHYUNI HRP ,Gizi Baik
+29,11,89,laki-laki,10,ANNISA KHAIRANI ,Gizi Lebih
+32,14,75,perempuan,11,NUR MARYAM SIREGAR ,Gizi Lebih
+13,7,55,perempuan,9,AMNESTI ,Gizi Baik
+32,3,26,perempuan,10,ASRI ,Gizi Kurang
+39,3,27,laki-laki,8,HAPIZAH GONIA ,Gizi Kurang
+22,14,89,perempuan,10,MUHAMMAD AZWAR ,Gizi Lebih
+58,3,31,laki-laki,8,AZRIL ALPARIZI ,Gizi Kurang
+9,4,35,perempuan,10,BUTET ,Gizi Kurang
+5,4,27,perempuan,10,M.AMIN NUR ,Gizi Kurang
+51,6,41,perempuan,11,MHD.AFDAL ROHID ,Gizi Baik
+4,6,43,laki-laki,10,DIZAH ,Gizi Baik
+58,5,49,laki-laki,9,MUJIB ,Gizi Baik
+22,14,101,laki-laki,9,SITI HAMIDAH HARAHAP ,Gizi Lebih
+29,6,56,laki-laki,9,JAKA MARTUA ,Gizi Baik
+58,5,58,perempuan,8,RAISA ,Gizi Baik
+56,4,26,laki-laki,9,YENI NEPITA ,Gizi Kurang
+13,12,96,laki-laki,10,ADISTY ,Gizi Lebih
+46,6,54,perempuan,9,ABIDZAR AL GHIFARI HRP ,Gizi Baik
+12,6,57,perempuan,10,FILYA CALISTA PULUNGAN ,Gizi Baik
+41,11,84,laki-laki,8,ADAM  ,Gizi Lebih
+38,12,83,laki-laki,8,SAMSIR HASIBUAN ,Gizi Lebih
+25,5,60,laki-laki,8,BUKHORI DLY ,Gizi Baik
+32,11,66,laki-laki,9,HAFIZAH ,Gizi Lebih
+15,10,63,laki-laki,9,ARSY PERMATASARI ,Gizi Lebih
+11,5,42,laki-laki,11,DELISA HUMAIRAH HSB ,Gizi Baik
+41,5,51,laki-laki,8,AFIF ZEIN ,Gizi Baik
+21,6,52,laki-laki,8,KIARA ,Gizi Baik
+55,10,97,laki-laki,9,ADIN RAIHANAN SIMBOLON ,Gizi Lebih
+41,6,55,laki-laki,10,MHD.AL FAHRIZI HASIBUAN ,Gizi Baik
+34,14,72,perempuan,11,RIDHO WAHYU HASIBUAN ,Gizi Lebih
+26,11,78,laki-laki,9,RAFAEL NST ,Gizi Lebih
+49,2,34,perempuan,8,BAIS ROPI ,Gizi Kurang
+16,3,39,laki-laki,11,ALISA QARANI MAHDIYAH,Gizi Kurang
+25,8,73,laki-laki,10,MHD. AL HAFIZ ,Gizi Lebih
+36,7,98,laki-laki,8,NUR SAKINAH NASUTION ,Gizi Lebih
+46,14,95,laki-laki,9,MARWAH PUTRI ,Gizi Lebih
+44,5,60,laki-laki,11,SISKA ,Gizi Baik
+40,5,52,laki-laki,10,RICOSYAPUTRA ,Gizi Baik
+36,10,76,perempuan,11,AZZAHRA ANGGIANI ,Gizi Lebih
+16,5,45,laki-laki,9,ADELIA RAHMA ,Gizi Baik
+22,7,96,perempuan,10,TAKKIYA ALMIRAH ,Gizi Lebih
+34,5,40,laki-laki,10,HAMBALI ,Gizi Baik
+29,4,38,laki-laki,11,INDAH PERMATA SARI ,Gizi Kurang
+14,5,49,perempuan,10,ALPIKRI WINATA ,Gizi Baik
+48,3,37,perempuan,9,WAHID ,Gizi Kurang
+2,3,30,laki-laki,8,BUTET SARION ,Gizi Kurang
+22,13,81,perempuan,9,MUHAMMAD UMAR SYAFIQ ,Gizi Lebih
+44,8,89,perempuan,9,NADIRA AMALIA HUTABARAT ,Gizi Lebih
+32,2,37,perempuan,8,UCOK NURHAYATI ,Gizi Kurang
+5,6,52,laki-laki,11,AISWA NAHLA ,Gizi Baik
+14,10,90,perempuan,9,BILQIS ANNASYA  ,Gizi Lebih
+35,4,21,laki-laki,10,UCOK RASMI ,Gizi Kurang
+1,12,71,laki-laki,11,ALI TOGU ,Gizi Lebih
+12,6,45,laki-laki,9,RYAS FANSURI ,Gizi Baik
+58,7,74,laki-laki,10,MUHAMMAD ALGHIFARI ,Gizi Lebih
+56,6,53,laki-laki,10,HAMDIYAH NST ,Gizi Baik
+42,3,23,laki-laki,11,UCOK ,Gizi Kurang
+21,12,89,laki-laki,11,KHAIRA NADIVA ,Gizi Lebih
+37,2,27,laki-laki,9,PUTRI LOLITA ,Gizi Kurang
+6,5,49,perempuan,8,MHD. ARIF ,Gizi Baik
+1,6,60,perempuan,9,SATRIANSA ,Gizi Baik
+57,3,28,laki-laki,10,NAZIFAH AINI ,Gizi Kurang
+37,5,41,laki-laki,11,SOLEH ,Gizi Baik
+21,4,40,perempuan,8,MHD ABDUR RAZAK HRP ,Gizi Kurang
+25,6,60,laki-laki,8,AISWA NAHLA HSB ,Gizi Baik
+36,5,51,perempuan,11,RAFIF FAHRI ,Gizi Baik
+33,2,26,laki-laki,9,HAPNI SARA PULUNGAN ,Gizi Kurang
+36,10,85,laki-laki,8,MHD. ARIF ALATAS HSB ,Gizi Lebih
+12,4,30,laki-laki,11,NAUFAL ,Gizi Kurang
+18,15,89,perempuan,9,M. ALGIFARI ,Gizi Lebih
+14,5,46,perempuan,8,AGUS SALIM PSB ,Gizi Baik
+29,11,77,perempuan,8,M.RAFIF ,Gizi Lebih
+4,6,41,laki-laki,10,AMRAN NASUTION ,Gizi Baik
+25,2,40,perempuan,10,KAINA NADIRA ,Gizi Kurang
+37,12,89,laki-laki,8,AULIA HUMAIRAH ,Gizi Lebih
+21,7,61,laki-laki,10,FAISAL RIZZA ALHABSY ,Gizi Lebih
+37,5,48,laki-laki,8,AZHAR SANJAYA HSB ,Gizi Baik
+43,4,40,perempuan,11,AZRIL HABIB ,Gizi Kurang
+10,2,32,perempuan,10,RIDO MUDA ,Gizi Kurang
+51,3,31,perempuan,10,AMEL ,Gizi Kurang
+41,5,46,laki-laki,11,MHD.SIROJUDDIN ,Gizi Baik
+23,9,81,laki-laki,8,IKHWAN PRATAMA ,Gizi Lebih
+36,12,61,laki-laki,11,MISRAIDA ,Gizi Lebih
+13,5,58,laki-laki,11,AZKA MAULANA RASYID ,Gizi Baik
+39,6,42,perempuan,11,AHMAD KELVIN ,Gizi Baik
+13,6,40,laki-laki,8,NUR HANIFAH ,Gizi Baik
+14,3,20,perempuan,11,FITRI ,Gizi Kurang
+20,5,41,perempuan,9,RIZIQ ,Gizi Baik
+24,6,52,perempuan,11,RAMADON ,Gizi Baik
+33,4,37,perempuan,10,REZI ANDRI  ,Gizi Kurang
+60,2,23,perempuan,11,DENITA ,Gizi Kurang
+49,7,62,laki-laki,10,M RAFAEL ,Gizi Lebih
+22,5,41,laki-laki,10,NADIATUL ,Gizi Baik
+31,9,90,laki-laki,9,AULIA ,Gizi Lebih
+43,2,22,perempuan,9,SUTAN SAKIR ,Gizi Kurang
+42,5,46,laki-laki,9,MHD. ALKAHFI  ,Gizi Baik
+44,6,59,perempuan,11,HAFIZAH ,Gizi Baik
+1,5,46,laki-laki,11,AHZA ALFARO ,Gizi Baik
+36,8,78,perempuan,8,LITHA NASUTION ,Gizi Lebih
+36,2,30,perempuan,8,NAZIELLA ,Gizi Kurang
+46,2,23,perempuan,11,RAYAN GIBRAN ,Gizi Kurang
+51,14,62,perempuan,8,AURORA ,Gizi Lebih
+57,13,77,laki-laki,11,ALISHA AZ ZAHRA LUBIS ,Gizi Lebih
+41,3,26,laki-laki,11,DAVID ,Gizi Kurang
+17,6,48,perempuan,11,ASKA ALPI PAHRI HSB ,Gizi Baik
+52,13,77,laki-laki,9,MISA AQILA ,Gizi Lebih
+58,4,21,laki-laki,11,APSAH ,Gizi Kurang
+51,12,93,perempuan,11,HABIBAH AMBAR NINGSIH ,Gizi Lebih
+11,14,102,laki-laki,9,PANDU ,Gizi Lebih
+9,2,34,laki-laki,11,SUARA ANGGITA ,Gizi Kurang
+54,10,99,perempuan,11,ALYA HANDAYANI ,Gizi Lebih
+26,2,23,perempuan,11,NADIRA RAMADANI NST ,Gizi Kurang
+23,11,86,perempuan,11,MUHAMMAD ALZIO MUSTAQIM ,Gizi Lebih
+35,2,24,perempuan,8,REFLY PRATANIA ,Gizi Kurang
+11,6,55,laki-laki,11,KENZI ALFARIZI ,Gizi Baik
+40,2,27,laki-laki,10,UCOK ,Gizi Kurang
+59,14,85,perempuan,11,M.NABIL WAIS ,Gizi Lebih
+33,4,34,perempuan,8,ADITYA ,Gizi Kurang
+14,5,46,laki-laki,10,RIZKINA MARITO HSB ,Gizi Baik
+1,14,86,laki-laki,8,MUHAMMAD RAFIF ASSIDDIQ ,Gizi Lebih
+53,8,64,perempuan,8,AKHIRULLAH KHASIM HASIBUAN ,Gizi Lebih
+32,4,31,laki-laki,9,KAYESA ,Gizi Kurang
+7,12,106,laki-laki,11,ADRIAN ALFAHREZA LUBIS ,Gizi Lebih
+41,6,58,laki-laki,8,RAHMA ALYA SAFIKA ,Gizi Baik
+8,4,29,perempuan,11,PUTRI ANDINI ,Gizi Kurang
+19,7,82,laki-laki,8,INDIRA ,Gizi Lebih
+23,5,52,perempuan,8,ILIA MUFAZAH ,Gizi Baik
+14,5,24,perempuan,10,AZKA HSB ,Gizi Kurang
+40,12,83,perempuan,10,FADLAN ,Gizi Lebih
+22,2,22,laki-laki,12,HAFIF ,Gizi Kurang
+26,2,35,laki-laki,10,ZEA ALMAIRA ,Gizi Kurang
+1,2,33,laki-laki,8,RAMA ,Gizi Kurang
+19,14,88,perempuan,8,NUR ASIFAH HASIBUAN ,Gizi Lebih
+59,6,56,perempuan,9,MUTIARA LIMA ,Gizi Baik
+40,4,29,perempuan,10,ALFINUS ,Gizi Kurang
+36,6,46,laki-laki,8,AKILA PUTRI SYAHDANA ,Gizi Baik
+15,6,56,perempuan,11,NUR LAILA LESTARI ,Gizi Baik
+56,2,27,perempuan,10,EVIVA LASE ,Gizi Kurang
+13,2,24,perempuan,11,ZASKIA ,Gizi Kurang
+14,3,33,laki-laki,10,DENITA ,Gizi Kurang
+32,2,28,laki-laki,10,FADILAH NAURA ,Gizi Kurang
+24,10,101,perempuan,9,MARWAH ,Gizi Lebih
+17,7,75,perempuan,9,ABDUL AZIZ CHANIAGO ,Gizi Lebih
+29,3,32,perempuan,11,MUSTOFA ,Gizi Kurang
+19,6,41,perempuan,10,NUR PATISAH ,Gizi Baik
+5,3,20,perempuan,10,IMAM ROSADI ,Gizi Kurang
+57,2,31,perempuan,9,M. ZEHAN MUSADDIQ ,Gizi Kurang
+41,4,23,laki-laki,8,JASANOR ,Gizi Kurang
+30,2,21,perempuan,11,QOTRUN ,Gizi Kurang
+30,2,40,laki-laki,8,PADILAH NAURA ,Gizi Kurang
+16,6,51,laki-laki,8,NADIRA AZMI FALISHA ,Gizi Baik
+47,3,29,laki-laki,9,KAILA ,Gizi Kurang
+3,5,49,laki-laki,11,SANLA AYU ,Gizi Baik
+23,10,60,laki-laki,8,AZIDAN ALSIROZI NASUTION ,Gizi Lebih
+17,6,48,perempuan,9,MALIK HAMZAH ,Gizi Baik
+35,6,48,perempuan,9,ALIF FAZRI ,Gizi Baik
+34,9,105,laki-laki,10,BUTET ,Gizi Lebih
+35,6,43,perempuan,10,ALIF HAFIZ ,Gizi Baik
+42,5,49,laki-laki,10,AUREL ,Gizi Baik
+15,15,99,perempuan,10,MAYLISA SIRAIT ,Gizi Lebih
+40,2,37,laki-laki,11,PAGAR ,Gizi Kurang
+60,11,96,laki-laki,9,NAJIPA ,Gizi Lebih
+7,5,60,laki-laki,9,PARMOHONAN ,Gizi Baik
+27,5,47,laki-laki,10,PADLI MARATUA ,Gizi Baik
+6,12,72,laki-laki,9,LOVISA MOZA ,Gizi Lebih
+42,6,49,laki-laki,11,ILHAM ,Gizi Baik
+55,2,23,perempuan,10,MASKOT ,Gizi Kurang
+4,5,45,perempuan,8,NADHIFA AIZA ,Gizi Baik
+43,6,49,perempuan,9,SIDDIQ RAJAYA HSB ,Gizi Baik
+45,7,62,laki-laki,9,ASYIFA ,Gizi Lebih
+49,6,54,laki-laki,11,HANIPA NAZIRA ,Gizi Baik
+39,2,22,laki-laki,9,UCOK ,Gizi Kurang
+32,10,91,laki-laki,10,BULAN PURNAMA SIREGAR ,Gizi Lebih
+20,5,45,laki-laki,11,ZAYYAN SABANI HSB ,Gizi Baik
+8,8,101,perempuan,11,NAILA PUTRI ,Gizi Lebih
+11,7,42,perempuan,11,ZALFA QIRANI ,Gizi Baik
+12,6,52,perempuan,10,BALQIS ,Gizi Baik
+17,3,23,laki-laki,11,NURHADIJAH ,Gizi Kurang
+22,12,93,laki-laki,11,AHMAD ABIL ,Gizi Lebih
+45,6,44,perempuan,11,EIZKYAH ,Gizi Baik
+12,2,21,laki-laki,11,UCOK KHADIJAH ,Gizi Kurang
+19,12,102,laki-laki,8,CHAIRA BILQIS ,Gizi Lebih
+50,8,63,laki-laki,9,MUHAMMAD ISYMAM HSB,Gizi Lebih
+55,6,45,perempuan,8,FARIS FADLAN ,Gizi Baik
+46,13,97,perempuan,10,RAIHAN PUTRA SABIL ,Gizi Lebih
+53,14,75,laki-laki,8,MUHAMMAD RAFFI NST ,Gizi Lebih
+39,12,62,laki-laki,9,,Gizi Lebih
+34,2,23,laki-laki,10,RIJAL ,Gizi Kurang
+38,6,42,laki-laki,10,AHMAD FAISAL LBS ,Gizi Baik
+41,2,37,laki-laki,9,FIDA ,Gizi Kurang
+15,3,34,perempuan,11,WIJAYA MARTUA ,Gizi Kurang
+23,6,42,laki-laki,12,WINADA AFIQAH SRG ,Gizi Baik
+2,2,33,laki-laki,11,BUTET HOTNA ,Gizi Kurang
+38,9,83,perempuan,11,ANDINA ,Gizi Lebih
+4,8,78,laki-laki,8,ALMAIRA AZ-ZAHRA LUBIS ,Gizi Lebih
+49,6,44,laki-laki,9,ADNAN ,Gizi Baik
+57,3,39,laki-laki,8,MAHMUD ROHAN NASUTION ,Gizi Kurang
+26,6,55,perempuan,8,AIRA FATHIYAH FAZILA HRP ,Gizi Baik
+11,7,46,perempuan,11,ZIKRI AMANAH DLY ,Gizi Baik
+46,14,63,laki-laki,11,ANGGINA ,Gizi Lebih
+8,6,41,laki-laki,8,Mhd iskan zakir ,Gizi Baik
+18,3,40,perempuan,10,NAZLA ,Gizi Kurang
+47,4,33,laki-laki,11,MUTIARA ,Gizi Kurang
+41,7,104,perempuan,11,FANY PRATIWI PANE ,Gizi Lebih
+17,15,99,perempuan,10,AFIKAH MARWAH ,Gizi Lebih
+6,4,26,perempuan,9,FITRIADELIA ,Gizi Kurang
+28,6,55,perempuan,9,AZIZAH ,Gizi Baik
+52,6,44,perempuan,10,SORIPADA PARTALIAN ,Gizi Baik
+8,4,26,perempuan,10,ILHAM ,Gizi Kurang
+4,7,50,perempuan,10,SYAKIPA MALI ,Gizi Baik
+5,3,29,laki-laki,9,WARDA ,Gizi Kurang
+44,3,33,perempuan,11,SEYLA YUMNA ,Gizi Kurang
